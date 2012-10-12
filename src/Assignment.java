@@ -38,9 +38,9 @@ class Task {
 	public String task_state;
 
 	public Task() {
-		this.task_name = "some new task";
+		this.task_name = "new task";
 		this.task_date = new Date();
-		this.task_category = "some new category";
+		this.task_category = "new category";
 		this.task_state = "open";
 	}
 
